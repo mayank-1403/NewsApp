@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "namerah.saud-fatmi@futurenet.com (Namerah Saud Fatmi)",
+    "title": "USB-C on the iPhone 15: What it means for accessory makers and the rest of the world",
+    "description": "Are you trying to understand how USB-C on the iPhone 15 affects you? This is what it means for accessory makers and the rest of the world.",
+    "url": "https://www.androidcentral.com/phones/usb-c-iphone-15-what-this-means-for-accessory-makers",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/q3kUKe97gws4jr8awjBxUg-1200-80.jpg",
+    "publishedAt": "2023-09-27T06:00:35Z",
+    "content": "Apple has been successfully bullied into adding USB-C to the iPhone 15 lineup thanks to the EU's strict mandate. While Apple pats itself on the back for revolutionizing the smartphone sector, let's t… [+9024 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "BeauHD",
+    "title": "Burkey Belser, Designer of Ubiquitous Nutrition Facts Label, Dies At 76",
+    "description": "An anonymous reader quotes a report from the Washington Post: Burkey Belser, a graphic designer who created the ubiquitous nutrition facts label -- a stark rectangle listing calories, fat, sodium and other content information -- that adorns the packaging of n…",
+    "url": "https://tech.slashdot.org/story/23/09/26/2240225/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76",
+    "urlToImage": "https://a.fsdn.com/sd/topics/graphics_64.png",
+    "publishedAt": "2023-09-27T03:30:00Z",
+    "content": "An anonymous reader quotes a report from the Washington Post: Burkey Belser, a graphic designer who created the ubiquitous nutrition facts label -- a stark rectangle listing calories, fat, sodium and… [+2435 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hackaday"
+    },
+    "author": "Maya Posch",
+    "title": "Beating Apple’s Secret Lid Angle Sensor Calibration With Custom Tool",
+    "description": "Among the changes made by Apple to its laptops over the years, the transition from a Hall sensor-based sleep sensor to an angle sensor that determines when the lid is closed is a decidedly unpopula…",
+    "url": "https://hackaday.com/2023/09/26/beating-apples-secret-lid-angle-sensor-calibration-with-custom-tool/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2023/09/nerd_tool_1_macbook_angle_sensor.jpeg",
+    "publishedAt": "2023-09-27T02:00:28Z",
+    "content": "Among the changes made by Apple to its laptops over the years, the transition from a Hall sensor-based sleep sensor to an angle sensor that determines when the lid is closed is a decidedly unpopular … [+1364 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "Over 100 masked teens ransack and loot Philadelphia stores, police say",
+    "description": "Police and witnesses say groups of teenagers swarmed into stores in Philadelphia’s Central City on Tuesday night, stuffing plastic bags with merchandise and fleeing, although police made several arrests",
+    "url": "https://abcnews.go.com/US/wireStory/100-masked-teens-ransack-loot-philadelphia-stores-leading-103516706",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2023-09-27T04:17:39Z",
+    "content": "PHILADELPHIA -- Groups of teenagers swarmed into stores in Philadelphia's Central City on Tuesday, stuffing plastic bags with merchandise and fleeing, although police made several arrests, authoritie… [+1321 chars]"
+    }
+    
+    ]
+}
